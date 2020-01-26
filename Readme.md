@@ -1,5 +1,7 @@
 <h1 align="center">
-    <img src="/SkyStatusLogo.svg" width="150" alt="SkyStatus"><br>
+    <a href="https://skystatus.eu" target="_BLANK">
+        <img src="/SkyStatusLogo.svg" width="150" alt="SkyStatus"><br>
+    </a>
     SkyStatus
 </h1>
 
